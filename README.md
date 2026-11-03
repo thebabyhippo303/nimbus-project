@@ -2,7 +2,7 @@
 
 Native ports of Dragon Ball Z: Budokai, Budokai 2 and Sagas (NTSC-U GameCube), all in one launcher on Linux, Windows (Vulkan) and Android, with online play and crossplay.
 
-**Website:** https://nimbus-project.pages.dev
+**Official website:** [nimbus-project.pages.dev](https://nimbus-project.pages.dev/)
 
 This repository holds the finished release distros only. Grab them from [Releases](https://github.com/thebabyhippo303/nimbus-project/releases).
 
