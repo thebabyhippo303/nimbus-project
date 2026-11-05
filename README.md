@@ -1,24 +1,24 @@
 # The Nimbus Project
 
-Native ports of Dragon Ball Z: Budokai, Budokai 2 and Sagas (NTSC-U GameCube) and Supersonic Warriors (USA Game Boy Advance), all in one launcher on Linux, Windows and Android, with online play and crossplay.
+Native ports of Dragon Ball Z: Budokai, Budokai 2 and Sagas (NTSC-U GameCube), plus Supersonic Warriors and Taiketsu (USA Game Boy Advance), all in one launcher on Linux, Windows and Android, with online play and crossplay.
 
 **Official website:** [nimbus-project.pages.dev](https://nimbus-project.pages.dev/)
 
 This repository holds the finished release distros only. Grab them from [Releases](https://github.com/thebabyhippo303/nimbus-project/releases).
 
-## Current version: Alpha 1.4 (Nov 3, 2026)
+## Current version: Alpha 1.5 (Nov 5, 2026)
 
 | Platform | File |
 |---|---|
-| Linux x86_64 (Ubuntu 26.04) | [`Nimbus-Alpha-1.4-Linux-x86_64.run`](https://github.com/thebabyhippo303/nimbus-project/releases/download/alpha-1.4/Nimbus-Alpha-1.4-Linux-x86_64.run) |
-| Windows x64 (Windows 11, Vulkan or D3D12 GPU) | [`Nimbus-Alpha-1.4-Windows-x64.zip`](https://github.com/thebabyhippo303/nimbus-project/releases/download/alpha-1.4/Nimbus-Alpha-1.4-Windows-x64.zip) |
-| Android arm64 (Android 13+) | [`Nimbus-Alpha-1.4-Android-arm64.apk`](https://github.com/thebabyhippo303/nimbus-project/releases/download/alpha-1.4/Nimbus-Alpha-1.4-Android-arm64.apk) |
+| Linux x86_64 (Ubuntu 26.04) | [`Nimbus-Alpha-1.5-Linux-x86_64.run`](https://github.com/thebabyhippo303/nimbus-project/releases/download/alpha-1.5/Nimbus-Alpha-1.5-Linux-x86_64.run) |
+| Windows x64 (Windows 11, Vulkan or D3D12 GPU) | [`Nimbus-Alpha-1.5-Windows-x64.zip`](https://github.com/thebabyhippo303/nimbus-project/releases/download/alpha-1.5/Nimbus-Alpha-1.5-Windows-x64.zip) |
+| Android arm64 (Android 13+) | [`Nimbus-Alpha-1.5-Android-arm64.apk`](https://github.com/thebabyhippo303/nimbus-project/releases/download/alpha-1.5/Nimbus-Alpha-1.5-Android-arm64.apk) |
 
-Check your download against `SHA256SUMS` (`sha256sum -c SHA256SUMS`). Release notes: [Alpha 1.4](https://github.com/thebabyhippo303/nimbus-project/releases/tag/alpha-1.4). Supersonic Warriors HD texture packs (PC, Android and a 2x lite pack) are on the [website](https://nimbus-project.pages.dev/#ssw-hd-pack). Separate module downloads (host, renderer and game cores) are on the [website](https://nimbus-project.pages.dev/#modules).
+Check your download against `SHA256SUMS` (`sha256sum -c SHA256SUMS`). Release notes: [Alpha 1.5](https://github.com/thebabyhippo303/nimbus-project/releases/tag/alpha-1.5). HD texture packs (including Taiketsu and Supersonic Warriors) are on the [website](https://nimbus-project.pages.dev/#downloads). Separate module downloads (host, renderer and game cores) are on the [website](https://nimbus-project.pages.dev/#modules).
 
-Previous releases: [Alpha 1.3](https://github.com/thebabyhippo303/nimbus-project/releases/tag/alpha-1.3) (Nov 2, 2026) · [Alpha 1.2](https://github.com/thebabyhippo303/nimbus-project/releases/tag/alpha-1.2) (Nov 2, 2026) · [Alpha 1.1](https://github.com/thebabyhippo303/nimbus-project/releases/tag/alpha-1.1) (Nov 2, 2026) · [Alpha 1.0](https://github.com/thebabyhippo303/nimbus-project/releases/tag/alpha-1.0) (Nov 1, 2026).
+Previous releases: [Alpha 1.4](https://github.com/thebabyhippo303/nimbus-project/releases/tag/alpha-1.4) (Nov 3, 2026) · [Alpha 1.3](https://github.com/thebabyhippo303/nimbus-project/releases/tag/alpha-1.3) (Nov 2, 2026) · [Alpha 1.2](https://github.com/thebabyhippo303/nimbus-project/releases/tag/alpha-1.2) (Nov 2, 2026) · [Alpha 1.1](https://github.com/thebabyhippo303/nimbus-project/releases/tag/alpha-1.1) (Nov 2, 2026) · [Alpha 1.0](https://github.com/thebabyhippo303/nimbus-project/releases/tag/alpha-1.0) (Nov 1, 2026).
 
-You need your own NTSC-U discs and your own Supersonic Warriors (USA) ROM. The runtime components for all four games are bundled; no original disc images or ROMs are included.
+You need your own NTSC-U discs and your own Supersonic Warriors (USA) and Taiketsu (USA) ROMs. The runtime components for all five games are bundled; no original disc images or ROMs are included.
 
 ## How it works
 
