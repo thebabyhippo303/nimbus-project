@@ -4,7 +4,7 @@
 
 Native ports of Dragon Ball Z: Budokai, Budokai 2 and Sagas (NTSC-U GameCube), plus Supersonic Warriors and Taiketsu (USA Game Boy Advance), all in one launcher on Linux, Windows and Android, with online play and crossplay.
 
-**Official website:** [nimbus-recompilation-project.pages.dev](https://nimbus-recompilation-project.pages.dev/)
+**Official website:** [nimbusrecomp.org](https://nimbusrecomp.org/)
 
 This repository holds the finished release distros only. Grab them from [Releases](https://github.com/thebabyhippo303/nimbus-recompilation-project/releases).
 
@@ -16,7 +16,7 @@ This repository holds the finished release distros only. Grab them from [Release
 | Windows x64 (Windows 11, Vulkan or D3D12 GPU) | [`Nimbus-Alpha-1.5-Windows-x64.zip`](https://github.com/thebabyhippo303/nimbus-recompilation-project/releases/download/alpha-1.5/Nimbus-Alpha-1.5-Windows-x64.zip) |
 | Android arm64 (Android 13+) | [`Nimbus-Alpha-1.5-Android-arm64.apk`](https://github.com/thebabyhippo303/nimbus-recompilation-project/releases/download/alpha-1.5/Nimbus-Alpha-1.5-Android-arm64.apk) |
 
-Check your download against `SHA256SUMS` (`sha256sum -c SHA256SUMS`). Release notes: [Alpha 1.5](https://github.com/thebabyhippo303/nimbus-recompilation-project/releases/tag/alpha-1.5). HD texture packs (including Taiketsu and Supersonic Warriors) are on the [website](https://nimbus-recompilation-project.pages.dev/#downloads). Separate module downloads (host, renderer and game cores) are on the [website](https://nimbus-recompilation-project.pages.dev/#modules).
+Check your download against `SHA256SUMS` (`sha256sum -c SHA256SUMS`). Release notes: [Alpha 1.5](https://github.com/thebabyhippo303/nimbus-recompilation-project/releases/tag/alpha-1.5). HD texture packs (including Taiketsu and Supersonic Warriors) are on the [website](https://nimbusrecomp.org/#downloads). Separate module downloads (host, renderer and game cores) are on the [website](https://nimbusrecomp.org/#modules).
 
 Previous releases: [Alpha 1.4](https://github.com/thebabyhippo303/nimbus-recompilation-project/releases/tag/alpha-1.4) (Nov 3, 2026) · [Alpha 1.3](https://github.com/thebabyhippo303/nimbus-recompilation-project/releases/tag/alpha-1.3) (Nov 2, 2026) · [Alpha 1.2](https://github.com/thebabyhippo303/nimbus-recompilation-project/releases/tag/alpha-1.2) (Nov 2, 2026) · [Alpha 1.1](https://github.com/thebabyhippo303/nimbus-recompilation-project/releases/tag/alpha-1.1) (Nov 2, 2026) · [Alpha 1.0](https://github.com/thebabyhippo303/nimbus-recompilation-project/releases/tag/alpha-1.0) (Nov 1, 2026).
 
